@@ -1,2 +1,6 @@
 odoo-addon-account_payment_base_oca @ git+https://github.com/OCA/bank-payment.git@refs/pull/1401/head#subdirectory=account_payment_base_oca
 odoo-addon-account_payment_order @ git+https://github.com/OCA/bank-payment.git@refs/pull/1403/head#subdirectory=account_payment_order
+<<<<<<< HEAD
+=======
+odoo-addon-account_banking_pain_base @ git+https://github.com/OCA/bank-payment.git@refs/pull/1404/head#subdirectory=account_banking_pain_base
+>>>>>>> pr-1405
